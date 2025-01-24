@@ -1,4 +1,5 @@
 Book Analysis and Visualization Project 📚📊
+
 This project focuses on analyzing and visualizing a dataset of books, authors, and ratings to uncover interesting patterns and trends. By using popular Python libraries for data analysis and visualization, the project aims to provide insights into book ratings, authors, and publication years.
 
 Features of the Project:
