@@ -36,6 +36,7 @@ Data Visualization:
 Interactive plots were generated using Plotly's offline mode, which allows the charts to be viewed directly in Jupyter Notebooks.
 
 How to Use the Project:
+
 Clone the repository and download the required datasets (book_tags.csv, books.csv, etc.).
 Install the required Python libraries using the command:
 bash
@@ -43,10 +44,12 @@ Copy
 Edit
 pip install -r requirements.txt
 Run the Jupyter Notebook or Python script to explore the analysis and visualizations.
+
 Results:
 Identification of the most prolific authors, such as Stephen King and Nora Roberts.
 Insights into the distribution of ratings across different books and authors.
 Trends in book publication years and average ratings over time.
+
 Future Scope:
 Integrate machine learning to predict ratings based on book metadata.
 Add recommendation systems for suggesting books based on user preferences.
